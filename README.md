@@ -30,3 +30,8 @@ Run the development web server:
 python manage.py runserver 8080
 ```
 Open the URL http://localhost:8080/ to access the application.
+autokeys
+https://stackoverflow.com/questions/66971594/auto-create-primary-key-used-when-not-defining-a-primary-key-type-warning-in-dja
+
+ImportError: cannot import name 'url'
+https://stackoverflow.com/questions/70319606/importerror-cannot-import-name-url-from-django-conf-urls-after-upgrading-to
